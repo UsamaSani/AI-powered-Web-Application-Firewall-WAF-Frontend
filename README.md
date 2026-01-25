@@ -75,7 +75,7 @@ AI-Powered-Web-Application-Firewall-(WAF)/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/UsamaSani/AI-powered-Web-Application-Firewall-WAF-.git
+git clone https://github.com/UsamaSani/AI-powered-Web-Application-Firewall-WAF-Frontend.git
 cd frontend
 ```
 
