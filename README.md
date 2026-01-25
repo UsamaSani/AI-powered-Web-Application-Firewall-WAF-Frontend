@@ -1,4 +1,4 @@
-# Guardian Shield: AI-Powered XSS & SQLi Detection Agent
+# AI-powered Web Application Firewall (WAF)
 
 ## Overview
 This is an advanced, AI-driven Web Application Firewall (WAF) solution designed to detect and mitigate Cross-Site Scripting (XSS) and SQL Injection (SQLi) attacks in real time. It combines machine learning models, a robust FastAPI backend, and a modern React dashboard to provide actionable security insights and automated protection for your web applications.
